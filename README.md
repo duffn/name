@@ -4,6 +4,8 @@ Presenting names for English-language applications where a basic model of first 
 
 Based off of [basecamp/name_of_person](https://github.com/basecamp/name_of_person).
 
+[![](https://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square)](https://godoc.org/github.com/duffn/name)
+
 ## Installation
 ```bash
 go get -u github.com/duffn/name
